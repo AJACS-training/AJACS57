@@ -2,33 +2,30 @@
 ---------------
 
 ライフサイエンス統合データベースセンター (DBCLS)  
-内藤 雄樹（[自己紹介](http://g86.dbcls.jp/~meso/meme/me)）  
+内藤 雄樹（[自己紹介](http://data.dbcls.jp/~meso/meme/me)）  
 2015年9月25日 統合データベース講習会：AJACS伊予
 
-  - [スライドPDF](http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/2015-09-25.AJACS_iyo.pdf)
+  - [スライドPDF](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/2015-09-25.AJACS_iyo.pdf)
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
 #### NCBI Entrez ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/NCBI.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/NCBI.png
 "スクリーンショット")
 
   - NCBI Entrez - http://www.ncbi.nlm.nih.gov/
 
 #### NCBI BLAST ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/BLAST.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/BLAST.png
 "スクリーンショット")
 
   - NCBI BLAST - http://www.ncbi.nlm.nih.gov/BLAST
 
 #### UCSC BLAT ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/BLAT.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/BLAT.png
 "スクリーンショット")
 
   - UCSC BLAT - https://genome.ucsc.edu/cgi-bin/hgBlat
@@ -37,8 +34,7 @@
 
 #### UCSCゲノムブラウザ ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/06/867440539.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/867440539.png
 "スクリーンショット")
 
   - UCSCゲノムブラウザ – https://genome.ucsc.edu/cgi-bin/hgGateway
@@ -53,8 +49,7 @@
 
 #### 統合遺伝子検索GGRNA ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2013/07/GGRNA.v2.jpg
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/GGRNA.v2.jpg
 "スクリーンショット")
 
   - GGRNAトップページ – http://GGRNA.dbcls.jp/
@@ -72,8 +67,7 @@
 
 #### 高速配列検索GGGenome ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2013/02/GGGenome_screen.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/GGGenome_screen.png
 "スクリーンショット")
 
   - GGGenomeトップページ – http://GGGenome.dbcls.jp/
@@ -90,8 +84,7 @@
 
 #### siRNA設計ウェブサーバsiDirect ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/06/siDirect_top.jpg
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/siDirect_top.jpg
 "スクリーンショット")
 
   - siDirectトップページ - http://siDirect2.RNAi.jp/
@@ -101,8 +94,7 @@
 
 #### CRISPR設計WebサーバCRISPRdirect ####
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2014/04/CRISPRscreen.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/CRISPRscreen.png
 "スクリーンショット")
 
   - CRISPRdirect (http://crispr.dbcls.jp/)
@@ -115,12 +107,10 @@
   - 統合TVによる解説動画
     - [difff《ﾃﾞｭﾌﾌ》を使って文章の変更箇所を調べる](http://togotv.dbcls.jp/20130828.html)
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2013/03/difff6.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/difff6.png
 "スクリーンショット")
 
   - 『[今日から使える！ データベース・ウェブツール 達人になるための実践ガイド100](https://www.yodosha.co.jp/jikkenigaku/book/9784758103435/)』実験医学増刊 2014年12月発行
 
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/B2uOQ3eCIAAFX9A.png
+![スクリーンショット](https://raw.githubusercontent.com/AJACS-training/AJACS57/master/meso/images/B2uOQ3eCIAAFX9A.png
 "スクリーンショット")
